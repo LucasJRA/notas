@@ -1,5 +1,6 @@
 # inicializando git local
 
+
 Primeiro confira se o git está instalado:
 
 ```bash
